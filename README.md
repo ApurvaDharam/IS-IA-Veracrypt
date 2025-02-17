@@ -33,5 +33,7 @@ Automating VeraCrypt with Command-Line
    
 3. Dismounting an Encrypted Volume: 
    veracrypt -t -d /mnt/veracrypt1
-
-
+![vc5](https://github.com/user-attachments/assets/30fc5932-62c1-4844-a2b2-2c6c97de31e9)
+![WhatsApp Image 2025-02-17 at 23 55 10](https://github.com/user-attachments/assets/38989bf5-6962-4661-9c47-65910d5acc14)
+![WhatsApp Image 2025-02-17 at 23 56 28](https://github.com/user-attachments/assets/2f9a647b-7f02-4117-9370-63ba218bd905)
+![veracrypt](https://github.com/user-attachments/assets/b1f21753-e1f9-4994-b653-08992e6772fd)
